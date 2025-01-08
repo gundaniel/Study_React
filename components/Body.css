@@ -1,0 +1,21 @@
+.body{
+    background-color: rgb(247, 105, 211);
+    color:yellow;
+    height: 300px;
+}
+table{
+    margin:auto;
+    border: 3px solid rgb(189, 145, 163) ;
+}
+th{
+    background-color: rgb(204, 32, 32);
+}
+tr{
+    padding: auto;
+    background-color: rgb(182, 137, 167);
+    color: rgb(205, 236, 25);
+    text-align: center;
+} 
+thead{
+    width: 100px;
+}
