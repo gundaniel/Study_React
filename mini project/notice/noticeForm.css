@@ -1,0 +1,44 @@
+.notice{
+    background-color: aquamarine;
+    width: 400px;
+    height: 400px;
+    margin: auto ;
+    border: 2px solid green;
+    font-weight: bolder;
+    
+}
+.hide{
+    width: 400px;
+    margin-top: 30px;
+    background-color: aquamarine;
+    border: 2px solid green;
+}
+  
+input{
+    width: 200px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+textarea{
+width: 200px;
+height: 200px;
+resize:none;
+font-weight: bolder;
+border: 2px solid green;
+}
+input{
+    border: 2px solid green;
+}
+
+button{
+    margin-right: 10px;
+    background-color: green;
+    border: 2px solid green;
+    color: aliceblue;
+
+}
+
+h1{
+    color: green;
+}
+
