@@ -1,0 +1,17 @@
+.text-center{
+    /*background-image: url('../img/별하늘.png');*/
+    height: 100px;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: center; /* 수평 중앙 정렬 */
+    align-items: center; /* 수직 중앙 정렬 */
+    text-align: center; /* 텍스트 중앙 정렬 */
+    -webkit-text-stroke: 1px rgb(101, 105, 146);
+    
+}
+
+#root{
+    background-image: url('../img/부산바다.png');
+    background-size: cover;
+};

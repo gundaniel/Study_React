@@ -1,0 +1,9 @@
+td{
+    font-size: 15px;  
+}
+
+.link{
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
